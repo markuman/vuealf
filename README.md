@@ -1,1 +1,1 @@
-bye bye microsoft. please visit https://git.osuv.de/m/markuman/vuealf
+bye bye microsoft. please visit https://git.osuv.de/m/vuealf
